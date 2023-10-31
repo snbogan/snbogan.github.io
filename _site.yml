@@ -11,9 +11,8 @@ output:
     toc_float:
       collapsed: false
     toc_depth: 3
-    theme: flatly
+    theme: darkly
     css: tutorial.css
     includes:
       before_body: header.html
-      
 
