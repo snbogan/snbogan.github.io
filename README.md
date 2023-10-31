@@ -1,2 +1,2 @@
-# Mediation_Power
+# snbogan.github.io
 This is my personal website
