@@ -1,0 +1,19 @@
+name: "Samuel N. Bogan"
+output_dir: "."
+navbar:
+  type: inverse
+  title: "Samuel N. Bogan"
+  href: index.html
+
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+    toc_depth: 3
+    theme: flatly
+    css: tutorial.css
+    includes:
+      before_body: header.html
+      
+
