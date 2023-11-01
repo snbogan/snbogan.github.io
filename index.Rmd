@@ -6,6 +6,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ---
 title: "Samuel N. Bogan, PhD"
 ---
+
+You found my draft website!
+
 <br>
 ```{r, echo = FALSE, out.width='45%', out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics("images/Sam_Headshot2.jpg")
