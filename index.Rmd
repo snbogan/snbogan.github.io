@@ -4,7 +4,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 ---
-title: "Welcome"
+title: "Samuel N. Bogan, PhD"
 ---
+<br>
+```{r, echo = FALSE, out.width='45%', out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("images/Sam_Headshot2.jpg")
+```
 
-This is my draft website!
+### Welcome <a id="about_me"></a>
+
+Hello! I'm a marine evolutionary biologist integrating eco-physiology and genomics to understand drivers and limits of environmental adaptation and acclimation. While I'm interested in how organisms successfully adapt to novel environments, I'm just as interested in what holds them back. I seek to improve predictions of when biodiversity does or does not adapt to global change in our oceans. 
+
+I recently started a postdoc at the University of California, Santa Cruz in the Kelley Lab. After completing my PhD at UC Santa Barbara where I studied the evolution and regulation of thermal acclimation, I'm currently studying convergent adaptations to extreme temperatures in fishes. 
+<br>
+

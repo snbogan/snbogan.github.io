@@ -4,6 +4,19 @@ navbar:
   type: inverse
   title: "Samuel N. Bogan"
   href: index.html
+  left:
+    - text: "About me"
+      href: About_me.html
+    - text: "Research"
+      menu: 
+        - text: "Aims"
+          href: Aims.html
+        - text: "Approaches"
+          href: Approaches.html
+        - text: "Study systems"
+          href: Study_syst.html
+          
+      
 
 output:
   html_document:
@@ -11,7 +24,7 @@ output:
     toc_float:
       collapsed: false
     toc_depth: 3
-    theme: darkly
+    theme: flatly
     css: tutorial.css
     includes:
       before_body: header.html
