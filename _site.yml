@@ -16,8 +16,6 @@ navbar:
         - text: "Study systems"
           href: Study_syst.html
           
-      
-
 output:
   html_document:
     toc: true

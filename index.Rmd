@@ -2,10 +2,28 @@
 
 knitr::opts_chunk$set(echo = TRUE)
 
+library(magick)
+
 ```
----
-title: "Samuel N. Bogan, PhD"
----
+
+```{r, echo = FALSE}
+
+# Annotate and print image
+index_strip <- magick::image_read("images/Website_panel.png")
+
+annotated_image <- image_annotate(index_strip, 
+                                  text = 'Samuel N. Bogan, PhD', 
+                                  size = 300, 
+                                  color = 'white',
+                                  location = '+400+600') # X and Y offsets from the top-left corner
+
+image_write(annotated_image, 'images/annotated_image.png')
+
+```
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/annotated_image.png")
+```
 
 You found my draft website!
 
@@ -16,7 +34,7 @@ knitr::include_graphics("images/Sam_Headshot2.jpg")
 
 ### Welcome <a id="about_me"></a>
 
-Hello! I'm a marine evolutionary biologist integrating eco-physiology and genomics to understand drivers and limits of environmental adaptation and acclimation. While I'm interested in how organisms successfully adapt to novel environments, I'm just as interested in what holds them back. I seek to improve predictions of when biodiversity does or does not adapt to global change in our oceans. 
+Hello! I'm a marine evolutionary biologist integrating eco-physiology and genomics to understand drivers and limits of environmental adaptation. While I'm interested in how organisms successfully adapt and acclimate to new environments, I'm just as interested in what holds them back. I'm motivated by predicting when biodiversity does and doesn't adapt to global change in our oceans. 
 
 I recently started a postdoc at the University of California, Santa Cruz in the Kelley Lab. After completing my PhD at UC Santa Barbara where I studied the evolution and regulation of thermal acclimation, I'm currently studying convergent adaptations to extreme temperatures in fishes. 
 <br>
