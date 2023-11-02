@@ -15,6 +15,16 @@ navbar:
           href: Approaches.html
         - text: "Study systems"
           href: Study_syst.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "MarineOmics.io"
+      href: MarineOmics.html
+    - text: "Equity & Service"
+      href: EquityService.html
+    - text: "News & Updates"
+      href: News.html
+    - text: "CV"
+      href: CV.html
           
 output:
   html_document:
