@@ -34,5 +34,5 @@ knitr::include_graphics("images/Sam_Headshot2.jpg")
 
 Hello! I'm a marine evolutionary biologist integrating eco-physiology and genomics to understand drivers and limits of environmental adaptation. While I'm interested in how organisms successfully adapt and acclimate to new environments, I'm just as interested in what holds them back. I'm motivated by predicting when biodiversity does and doesn't adapt to global change in our oceans. 
 
-I recently started a postdoc at the University of California, Santa Cruz in the Kelley Lab. After completing my PhD at UC Santa Barbara where I studied the evolution and regulation of thermal acclimation, I'm currently studying convergent adaptations to extreme temperatures in fishes.
+I recently started a postdoc at the University of California, Santa Cruz in the Kelley Lab. I completed my PhD at UC Santa Barbara where I studied the evolution and regulation of thermal acclimation. I'm currently studying convergent adaptations to extreme temperatures in fishes.
 

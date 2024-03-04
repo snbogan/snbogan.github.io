@@ -37,3 +37,4 @@ output:
     includes:
       before_body: header.html
 
+google_analytics: G-CWBYQ15S3D
