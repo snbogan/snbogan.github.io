@@ -9,7 +9,7 @@ navbar:
       href: About_me.html
     - text: "Research"
       menu: 
-        - text: "Aims"
+        - text: "Topics & aims"
           href: Aims.html
         - text: "Approaches"
           href: Approaches.html

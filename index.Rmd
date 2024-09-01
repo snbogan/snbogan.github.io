@@ -34,6 +34,8 @@ knitr::include_graphics("images/Sam_Headshot2.jpg")
 
 ### Welcome <a id="about_me"></a>
 
+My website is under construction. The homepage, 'About me', and 'Research' are live.
+
 I'm an evolutionary biologist integrating physiology and genomics to understand the drivers and limits of environmental adaptation and acclimation. 
 
 I'm currently a postdoctoral researcher at the University of California, Santa Cruz in the [Kelley Lab](https://evogenomes.sites.ucsc.edu/) where I'm studying the evolution of antifreeze proteins in polar fishes through the lens of structural genomic variation.
