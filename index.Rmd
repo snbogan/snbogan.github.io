@@ -57,7 +57,11 @@ knitr::include_graphics("images/LongAFP_Twitter_Fig.png")
 
 ### Contact <a id="about_me"></a>
 
-**Office:** Coastal Biology Building Room 158 ![](images/mail.png){width=25px} snbogan[at]ucsc.edu ![](images/twitter.png){width=25px} [@granogan](https://x.com/granogan) ![](images/github.png){width=25px} [@snbogan](https://github.com/snbogan)
+![](images/mail.png){width=25px} snbogan[at]ucsc.edu ![](images/twitter.png){width=25px} [@granogan](https://x.com/granogan) ![](images/github.png){width=25px} [@snbogan](https://github.com/snbogan) ![](images/google_scholar.png){width=25px} [Google Scholar](https://scholar.google.com/citations?user=4pu2BAUAAAAJ&hl=en)
+
+**Office:** Coastal Biology Building Room 158 
+
+
 
 
 
