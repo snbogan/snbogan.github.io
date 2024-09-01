@@ -41,5 +41,5 @@ Epigenetic modifications to DNA and chromatin and hypothesized to underpin plast
 
 Phenotypic plasticity can both evolve by - and affect - natural selection. However, evolutionary biology maintains a poor ability to predict when plasticity or environmental acclimation is adaptive. Furthermore, direct evidence of plasticity's role in modifying selection on phenotypes is largely indirect. I am investigating the ecological and evolutionary processes that shape the fitness effects of plasticity and acclimation in addition to developing directly testable theory and evolutionary genetic models for plasticity's role in evolution.
 
-<u>Example:</u> *Bogan SN*, Porat OI, Meneses M, and Hofmann GE. 2024. [Thermal Plasticity Has Greater Fitness Costs among Thermally Tolerant Genotypes of *Tigriopus californicus*](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14568). *Functional Ecology* 38:1562–1577.  
+<u>Example:</u> *Bogan SN*, Porat OI, Meneses M, and Hofmann GE. 2024. [Thermal Plasticity Has Greater Fitness Costs among Thermally Tolerant Genotypes of *Tigriopus californicus*](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14568). *Functional Ecology* 38: 1562–1577.  
 
