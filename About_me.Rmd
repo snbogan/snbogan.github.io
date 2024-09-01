@@ -33,4 +33,3 @@ cat('<a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.
 
 cat('<a href="https://www.biorxiv.org/content/10.1101/2024.08.24.609455v1" target="_blank"><img src="images/afp_fish.jpg" style="width:33%;" /></a>')
 ```
-
