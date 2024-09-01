@@ -42,7 +42,7 @@ I'm currently a postdoctoral researcher at the University of California, Santa C
 
 <br>
 
-### Latest News <a id="about_me"></a>
+### Latest news <a id="about_me"></a>
 
 **August 26th, 2024** - The first paper from my postdoctoral research is out on bioRxiv! This work is currently in revision. 
 
