@@ -1,12 +1,12 @@
 ---
-title: "About Me"
+title: "About me"
 ---
 
 ```{r, echo = FALSE, out.width='33%', out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics("images/Gumboot_Headshot.jpg")
 ```
 
-### Research & Background
+### Research & background
 
 I'm an evolutionary biologist integrating physiology and genomics to understand the drivers and limits of environmental adaptation and acclimation. I study how the structure and variation of genomes and epigenomes constrains or facilitates adaptive evolution and phenotypic plasticity at molecular and organismal levels. I primarily pursue this research in marine animals such as polar ectotherms, coastal invertebrates, and deep sea fishes. While I also work to address fundamental biological questions, my training in marine ecology is fundamental to how I approach questions in physiological and molecular evolution.      
 
@@ -16,7 +16,7 @@ As a postdoctoral researcher at the University of California, Santa Cruz in the 
 
 <br>
 
-### Non-model Genomics
+### Non-model genomics
 
 As a co-leader of the MarineOmics working group, I aim to promote training resources and methodological advancements for genomic research in marine and non-model species. Our website [marineomics.io](https://marineomics.github.io/) publishes markdown-style blog posts sharing tutorials, perspectives, and new methods related to population genomics, functional genomics, genome assembly, and genome-phenome mapping. Find out more under the [MarineOmics.io](https://snbogan.github.io/MarineOmics.html) tab. 
 
