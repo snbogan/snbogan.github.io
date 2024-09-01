@@ -36,3 +36,13 @@ I'm an evolutionary biologist integrating physiology and genomics to understand 
 
 I am a postdoctoral researcher at the University of California, Santa Cruz in the [Kelley Lab](https://evogenomes.sites.ucsc.edu/). I completed my PhD at UC Santa Barbara where I studied the evolution and regulation of thermal acclimation. I'm currently studying the evolution of antifreeze proteins in polar fishes at macro- and micro-evolutionary scales through the lens of structural genomic variation. I'm also continuing my research on how phenotypic plasticity and acclimation evolve by, and affect, natural selection.
 
+<br>
+
+### Contact <a id="about_me"></a>
+
+![](images/mail.png){width=25px} snbogan[at]ucsc.edu
+
+![](images/twitter.png){width=25px} [@granogan](https://x.com/granogan)
+
+
+
