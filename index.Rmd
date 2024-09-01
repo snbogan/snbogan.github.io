@@ -34,15 +34,13 @@ knitr::include_graphics("images/Sam_Headshot2.jpg")
 
 I'm an evolutionary biologist integrating physiology and genomics to understand the drivers and limits of environmental adaptation and acclimation. I study how the structure and variation of genomes and epigenomes constrains or facilitates adaptive evolution and phenotypic plasticity at molecular and organismal levels.     
 
-I am a postdoctoral researcher at the University of California, Santa Cruz in the [Kelley Lab](https://evogenomes.sites.ucsc.edu/). I completed my PhD at UC Santa Barbara where I studied the evolution and regulation of thermal acclimation. I'm currently studying the evolution of antifreeze proteins in polar fishes at macro- and micro-evolutionary scales through the lens of structural genomic variation. I'm also continuing my research on how phenotypic plasticity and acclimation evolve by, and affect, natural selection.
+As a postdoctoral researcher at the University of California, Santa Cruz in the [Kelley Lab](https://evogenomes.sites.ucsc.edu/), I'm studying the evolution of antifreeze proteins in polar fishes at macro- and micro-evolutionary scales through the lens of structural genomic variation. I completed my PhD at UC Santa Barbara where I studied the evolution and regulation of thermal acclimation.
+
 
 <br>
 
 ### Contact <a id="about_me"></a>
 
-![](images/mail.png){width=25px} snbogan[at]ucsc.edu
-
-![](images/twitter.png){width=25px} [@granogan](https://x.com/granogan)
-
+![](images/mail.png){width=25px} snbogan[at]ucsc.edu ![](images/twitter.png){width=25px} [@granogan](https://x.com/granogan) ![](images/github.png){width=25px} [@snbogan](https://github.com/snbogan)
 
 
