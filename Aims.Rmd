@@ -8,6 +8,8 @@ knitr::include_graphics("images/fishhut_pic.jpg")
 
 <div style="clear: both;"></div>
 
+<br>
+
 ## Global change
 
 **Adaptation and acclimation to global change**
