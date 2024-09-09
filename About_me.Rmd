@@ -8,7 +8,7 @@ knitr::include_graphics("images/Gumboot_Headshot.jpg")
 
 ### Research & background
 
-I'm an evolutionary biologist integrating physiology and genomics to understand the drivers and limits of environmental adaptation and acclimation. I study how the structure and variation of genomes and epigenomes constrains or facilitates adaptive evolution and phenotypic plasticity at molecular and organismal levels. I primarily pursue this research in marine animals such as polar ectotherms, coastal invertebrates, and deep sea fishes. While I also work to address fundamental biological questions, my training in marine ecology is fundamental to how I approach questions in physiological and molecular evolution.      
+I'm an evolutionary biologist integrating physiology and genomics to understand the drivers and limits of environmental adaptation and acclimation. I study how the structure and variation of genomes and epigenomes constrains or facilitates adaptive evolution and phenotypic plasticity. This work spans molecular, organismal, and population levels. I primarily research marine animals such as polar ectotherms, coastal invertebrates, and deep sea fishes. While I also work to address fundamental biological questions, my training in marine ecology is central to how I approach questions in physiological and molecular evolution.      
 
 <div style="clear: both;"></div>
 

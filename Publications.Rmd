@@ -35,7 +35,7 @@ knitr::include_graphics("images/bodega_banner.jpg")
 **Bogan SN**, Johnson KM, and Hofmann GE. 2020. [Changes in Genome-wide Methylation and Gene Expression in Response to Future pCO2 Extremes in the Antarctic Pteropod *Limacina helicina antarctica*](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2019.00788/full). *Frontiers in Marine Science* 6: 788.
 
 
-**Bogan SN** and Place SP. 2019. [Accelerated Evolution at Chaperone Promoters among Antarctic Notothenioid Fishes](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-019-1524-y). BMC Evolutionary Biology 19: 205.
+**Bogan SN** and Place SP. 2019. [Accelerated Evolution at Chaperone Promoters among Antarctic Notothenioid Fishes](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-019-1524-y). *BMC Evolutionary Biology* 19: 205.
 
 
 **Bogan SN**, McMahon JB, Pechenik JA, and Pires A. 2019. [Legacy of Multiple Stressors: Ocean Acidification and Nutrition in Larvae and Juveniles of a Marine Gastropod](https://www.journals.uchicago.edu/doi/10.1086/702993). *Biological Bulletin* 236: 159–173. 
