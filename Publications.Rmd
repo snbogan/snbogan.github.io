@@ -34,7 +34,7 @@ Moosman OW\*, Kelley JK, **Bogan SN**. Mitigating Misassembly and Switch Errors 
 **Bogan SN**, Strader ME, and Hofmann GE. 2023. [Associations between DNA Methylation and Gene Expression Depend on Chromatin Accessibility during Transgenerational Plasticity](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-023-01645-8). *BMC Biology* 21: 149. 
 
 
-**Bogan SN**, Johnson KM, and Hofmann GE. 2020. [Changes in Genome-wide Methylation and Gene Expression in Response to Future pCO2 Extremes in the Antarctic Pteropod *Limacina helicina antarctica*](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2019.00788/full). *Frontiers in Marine Science* 6: 788.
+**Bogan SN**, Johnson KM, and Hofmann GE. 2020. [Changes in Genome-wide Methylation and Gene Expression in Response to Future *p*CO2 Extremes in the Antarctic Pteropod *Limacina helicina antarctica*](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2019.00788/full). *Frontiers in Marine Science* 6: 788.
 
 
 **Bogan SN** and Place SP. 2019. [Accelerated Evolution at Chaperone Promoters among Antarctic Notothenioid Fishes](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-019-1524-y). *BMC Evolutionary Biology* 19: 205.
