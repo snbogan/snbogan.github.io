@@ -1,6 +1,291 @@
 ---
 title: "Curriculum Vitae"
 ---
+## Samuel N. Bogan, PhD  
+UC Santa Cruz Coastal Biology Building, 130 McAllister Way, Santa Cruz, CA 95060  
+Email: snbogan[at]ucsc.edu  
 
-# Draft text
+---
 
+## Education & Training  
+
+**2023 – present**  
+University of California, Santa Cruz (UCSC), Santa Cruz, CA  
+*Postdoctoral Researcher*  
+Department of Ecology and Evolutionary Biology  
+Primary investigator: Dr. Joanna Kelley  
+
+**2018 – 2023**  
+University of California, Santa Barbara (UCSB), Santa Barbara, CA  
+*PhD Candidate*  
+Department of Ecology, Evolution, and Marine Biology  
+Thesis: *Physiological and Genomic Evolution of Environmental Acclimation across Populations of Strongylocentrotus purpuratus and Tigriopus californicus*  
+Advisor: Dr. Gretchen Hofmann  
+
+**2016 – 2018**  
+Sonoma State University (SSU), Rohnert Park, CA  
+*Master of Science*  
+Department of Biology  
+Advisor: Dr. Sean Place  
+
+**2012 – 2016**  
+Dickinson College, Carlisle, PA  
+*Bachelor of Science, cum laude*  
+Thesis Advisor: Dr. Anthony Pires, Department of Biology  
+
+---
+
+## Publications  
+
+- Bogan SN, Porat OI*, Meneses MJ*, and Hofmann GE. 2024. Thermal Plasticity Has Greater Fitness Costs among Thermally Tolerant Genotypes of *Tigriopus californicus*. *Functional Ecology* 38(7):1562–1577.  
+- Bogan SN and Yi SV. 2024. Potential Role of DNA Methylation in Plastic Responses to the Environment across Cells, Organisms, and Populations. *Genome Biology and Evolution* 16(2): evae022.  
+- Bogan SN, Johns JW, Griffiths JS, Davenport DL, Schaal SM, Wuitchik SJS, Lotterhos KE, Lou RN, McGirr JA, Downey-Wall AM, Rivera HE, Roberts SB, Puritz JB, and Silliman KE. 2023. A dynamic web resource for robust and reproducible genomics in nonmodel species: marineomics.io. *Methods in Ecology and Evolution* 14(11): 2709–2716.  
+- Bogan SN, Strader ME, and Hofmann GE. 2023. Associations between DNA Methylation and Gene Expression Depend on Chromatin Accessibility during Transgenerational Plasticity. *BMC Biology* 21:149.  
+- Bogan SN, Johnson KM, and Hofmann GE. 2020. Changes in Genome-wide Methylation and Gene Expression in Response to Future pCO₂ Extremes in the Antarctic Pteropod *Limacina helicina antarctica*. *Frontiers in Marine Science* 6:788.  
+- Bogan SN and Place SP. 2019. Accelerated Evolution at Chaperone Promoters among Antarctic Notothenioid Fishes. *BMC Evolutionary Biology* 19:205.  
+- Bogan SN, McMahon JB, Pechenik JA, and Pires A. 2019. Legacy of Multiple Stressors: Ocean Acidification and Nutrition in Larvae and Juveniles of a Marine Gastropod. *Biological Bulletin* 236(3):159–173.  
+
+---
+
+## Preprints and Works in Review or Revision  
+
+- Bogan SN, Surendran N*, Hotaling S, Desvignes T, Bista I, Lins LSF, Eilertsen MH, Le François NR, Algayer T, Hamilton SL, Hoffmann FG, and Kelley JL. 2024. Temperature and Pressure Shaped the Evolution of Antifreeze Proteins in Polar and Deep Sea Zoarcoid Fishes. *bioRxiv.* (minor revision at *Molecular Biology and Evolution*)  
+- Bogan SN, Sasaki M, and Kelley JL. Improving evolutionary and genomic tests of selection on phenotypic plasticity and plasticity-first evolution. (in revision)  
+- Bogan SN, Strader ME, and Hofmann GE. 2024. Parental stress alters the fitness effects and genetic correlation of offspring performance traits and their gene expression pathways. *bioRxiv.* (in revision at *Evolution*)  
+- Moosman OW*, Kelley JK, and Bogan SN. Mitigating Assembly and Switch Errors in Pangenomes of Polar Fishes Reveals Haplotype Diversity in Copy Number of Antifreeze Protein Genes. (in revision; invited for special issue and in review at *Heredity*)  
+
+---
+
+## Non-peer Reviewed Literature  
+
+- Bogan SN. [*Fitting Multifactorial Models of Differential Expression*](https://marineomics.github.io/DGE_comparison_v2.html), 2022.  
+
+* \* = undergraduate mentee  
+
+---
+
+## Academic Honors & Awards  
+
+- 2024 — Young Investigator Travel Award, Society for Molecular Biology and Evolution  
+- 2023 — Graduate Division Dissertation Fellowship, UC Santa Barbara Division of Graduate Studies  
+- 2023 — Storke Award for Graduate Student Excellence, UCSB Dept. of Ecology, Evolution and Marine Biology  
+- 2023 — Finalist: Mary Rice Award for Best Student Oral Presentation, Society for Integrative and Comparative Biology  
+- 2021 — Worster Award, UCSB Dept. of Ecology, Evolution and Marine Biology  
+- 2020 — Nomination for Outstanding Teaching Assistant Award, UC Santa Barbara  
+- 2019 — Nejat B. Ezal Memorial Scholarship, UCSB Dept. of Ecology, Evolution and Marine Biology  
+- 2018, 2019, 2023 — Block Grant Fellowship, UCSB Dept. of Ecology, Evolution and Marine Biology  
+- 2018, 2022 — Charlotte Mangum Student Support Award, Society for Integrative and Comparative Biology  
+- 2016 — Spencer Fullerton Baird Prize in Biology, Dickinson College (distinction awarded to a graduating biology major)  
+- 2016 — Departmental Honors in Biology, Dickinson College  
+
+---
+
+## Research & Travel Grants 
+($56,803 during graduate and postdoctoral career) 
+
+- 2020–2024 — Working Group Grant ($32,100; co-written with Dr. Katherine Silliman), NSF Research Coordinate Network for Evolution in Changing Seas  
+- 2021 — Grant in Aid of Research ($769), Society for Integrative and Comparative Biology  
+- 2021 — Worster Summer Research Grant ($6,580), UCSB Dept. of Ecology, Evolution and Marine Biology  
+- 2020 — Faculty Research Grant ($10,654; co-written with Dr. Gretchen Hofmann), UCSB Academic Senate  
+- 2019 — Mildred E. Mathias Graduate Student Research Grant ($1,400), University of California Natural Reserve System  
+- 2018 — NSF Student Travel Grant ($1,800), National Science Foundation  
+- 2017 — CSU COAST Graduate Student Research Award ($3,000), California State University  
+- 2019 — Jack Arnold Memorial Student Research Grant ($500), Sonoma State University  
+
+---
+
+## Invited Talks & Panels  
+
+- 2024 — *Ecological and Genomic Constraints on Environmental Acclimation and Adaptation by Marine Fauna.* Cal Poly San Luis Obispo, Dept. of Biology (invited seminar).  
+- 2023 — *Thermal Plasticity has Greater Fitness Costs among Tolerant Genotypes.* Mary Rice Award Best Student Presentation Session, Society for Integrative and Comparative Biology Annual Meeting, Austin, TX (invited talk).  
+- 2022 — *One Tool in a Toolkit: Integrative, Genewise Tests of Associations Between the Environment, DNA Methylation, and Gene Expression.* Congress of Marine Epigenetics, MBL, Woods Hole, MA (featured speaker).  
+- 2022 — Panel: *Synthesis across Genomic Data Sources.* Research Coordination Network for Evolution in Changing Seas Training and Integration Workshop, Shoals Marine Lab, NH (invited panelist).  
+- 2021 — *In situ Environments Induce Maternal Effects on Larval Performance in the Purple Sea Urchin.* Santa Barbara Channel LTER Seminar (invited talk).  
+- 2018 — *New Turns and ‘U-Turns’ in Cis- Trans-regulation of Molecular Chaperones Among Antarctic Fishes.* UC Davis Graduate Group in Population Biology, Davis, CA (invited seminar).  
+- 2017 — *Thermal Adaptation in Antarctic Fishes in a Warming Ocean.* Presentation to the United States National Science Board, McMurdo Station, Antarctica (invited talk).  
+
+---
+
+## Selected Conference Presentations  
+
+- 2025 — *Determining Causes and Consequences of Gene Copy Number Evolution at Genomic and Transcriptomic Levels using Long-read Sequencing.* Plant and Animal Genomes, San Diego, CA (talk).  
+- 2024 — *Convergent Structural Variation of Antifreeze Proteins in Polar and Deep Sea Fishes.* Society for Molecular Biology and Evolution, Puerto Vallarta, Mexico (talk).  
+- 2023 — *Thermal plasticity has higher fitness costs in more thermally tolerant families of Tigriopus californicus.* Western Society of Naturalists, Monterey, CA (talk).  
+- 2023 — *Phenome-wide heritability of adaptive plasticity.* Society for Molecular Biology and Evolution, Ferrara, Italy (poster).  
+- 2021 — *Gene Regulatory Roles of DNA Methylation During Transgenerational Plasticity in the Sea Urchin Strongylocentrotus purpuratus.* Society for Integrative and Comparative Biology Annual Meeting, virtual (talk).  
+- 2020 — *Sex-dependent Effects of Local Adaptation on the Thermal Physiology of Tigriopus californicus Across a Latitudinal Cline.* Western Society of Naturalists, virtual (talk).  
+- 2020 — *Changes in Genome-wide Methylation in Response to Ocean Acidification in the Pteropod Limacina helicina antarctica...* AGU Ocean Sciences Meeting, San Diego, CA (poster).  
+- 2019 — *Eco-evolutionary and Molecular Underpinnings of Plasticity in Thermal Tolerance Among Natural Populations of Tigriopus californicus.* Western Society of Naturalists, Ensenada, Mexico (poster).  
+- 2018 — *Regulation of a Lost Inducible Heat Shock Response in Antarctic Fishes.* POLAR2018, Davos, Switzerland (poster).  
+- 2018 — *Latent and Interactive Effects of Ocean Acidification and Nutrition Across the Larva to Juvenile Transition in an Intertidal Gastropod.* Society for Integrative and Comparative Biology Annual Meeting, San Francisco, CA (talk).  
+- 2016 — *Influence of Reduced pH on Growth and Development of the Marine Gastropod Crepidula fornicata.* Society for Integrative and Comparative Biology Annual Meeting, Portland, OR (poster).  
+
+---
+
+## Research Appointments  
+
+- 2023 – present — Postdoctoral Researcher, University of California, Santa Cruz, Dept. of Ecology and Evolutionary Biology, Santa Cruz, CA  
+- 2018 – 2023 — Graduate Student Researcher, University of California, Santa Barbara, Dept. of Ecology, Evolution and Marine Biology, Santa Barbara, CA  
+- 2020 – 2021 — Graduate Student Researcher, Santa Barbara Coastal LTER  
+- 2017 — Graduate Student Researcher, NSF Office of Polar Programs, McMurdo Station, Antarctica  
+- 2016 – 2018 — Graduate Student Researcher, Sonoma State University, Dept. of Biology, CA  
+- 2015 — Undergraduate Researcher, University of Washington, Friday Harbor Labs, WA  
+
+---
+
+## Teaching Appointments & Pedagogical Development  
+
+- 2025 – present — Instructor, Northeastern University, Three Seas Masters in Marine Biology at Friday Harbor Labs, WA  
+  - Co-teach an annual field course focused on genomic and restoration approaches for marine conservation.  
+  - Train students in fundamental genomic and wet lab tools for population genetics.  
+
+- 2025 — Participant, UCSC Equity-minded Mentorship Certificate Program  
+  - Five-session training on inclusive mentorship in STEM.  
+
+- 2024 – present — Contributor, Resources for Inclusive Evolution Education Working Group  
+  - Develop open access lesson plans for evolutionary biology, focusing on genetics and plasticity.  
+
+- 2022 — Teaching Assistant, Invertebrate Zoology, UCSB  
+  - Led labs with live marine invertebrates, covering taxonomy and anatomy.  
+
+- 2019 – 2021 — Teaching Assistant, Global Change Biology, UCSB  
+  - Led discussions on global change biology literature.  
+
+- 2019 – 2023 — Teaching Assistant, Introductory Biology: The Diversity of Life, UCSB  
+  - Led labs on biodiversity across microbial to vertebrate taxa.  
+
+- 2018 — Teaching Assistant, Physiological Marine Molecular Ecology, Northeastern University  
+  - Taught graduate field course at Friday Harbor Labs.  
+  - Lectures + labs on physiology and stress responses.  
+
+- 2016 – 2018 — Teaching Associate, SSU, Dept. of Biology  
+  - Led labs for molecular/cellular biology and ecology/evolution.  
+
+- 2017 — Instructor, EXCEL for Youth Summer Learning Program  
+  - Developed marine biology curriculum for ages 9–12.  
+
+---
+
+## Professional Development  
+
+- 2020 – present — Working Group Co-leader, MarineOmics (marineomics.github.io)  
+- 2022 — RCN-ECS Training and Integration Workshop, Shoals Marine Lab, NH  
+- 2020 — Virtual Lab Meeting Training Program, University of Washington (Roberts Lab)  
+- 2019 – 2021 — RCN-ECS Coordinated Readings on marine population biology and genomics  
+
+---
+
+## Outreach, Service & Mentorship  
+- 2025 – present	Steering Committee Member, Marine Ecological Genomics Center, Northeastern University 
+  - I consult on the operations, aims, and funding strategies of the research center, which serves to advance the synthesis of genomic data from marine systems and cryopreserved specimens of the Ocean Genome Legacy for the study of evolution in our oceans. 
+
+- 2024 – present	Exhibit Development, UC Santa Cruz Seymour Marine Discovery Center
+  - In collaboration with Dr. Joanna Kelley and the UCSC Seymour Center, we have developed an interactive exhibit with learning outcomes spanning ages 8-18 focused on interactions between environments, genes, and traits during the adaptation of fishes to their marine environments.
+
+- 2024 – present	Local Outreach, Branciforte Small Schools, Santa Cruz, CA
+  - With teachers at Branciforte Small Schools, I have developed and taught an interactive lesson for high school students engaging them with basic concepts in genetics, evolution, and the foundations of gene annotation using multiple alignment.
+
+- 2022 – present	Editorial Reviewer, Integrative and Comparative Biology
+  - I annually serve as an editorial reviewer for *Integrative and Comparative Biology*’s symposia papers.
+2020 – present	Peer Reviewer
+  - I have served as a peer reviewer for *Molecular Ecology*, *Molecular Ecology Resources*, *Epigenetics*, *Proceedings of the Royal Society B*, *Evolutionary Applications*, *Journal of Molecular Evolution*, *Scientific Reports*, *Journal of Animal Ecology*, *Marine Ecology Progress Series*, *Integrative and Comparative Biology*, *National Science Review*, *Epigenetics Insights*, and *Frontiers in Physiology*.
+
+- 2022	Graduate Mentor, CAMP Summer Research Internship
+  - In summer of 2022, I mentored an undergraduate research fellow with the California Alliance for Minority Participation’s Summer Research Internship.
+
+- 2022 – 2023	Mentor, Society for Integrative and Comparative Biology
+  - I have volunteered to mentor an attendee of the upcoming 2023 annual meeting of the Society for Integrative and Comparative Biology in Austin, TX.
+
+- 2021 – 2022	Graduate Mentor, Worster Award, UCSB Dept. of Ecology, Evolution, and Marine Biology
+  - With funding from UCSB EEMB’s Worster Award, I mentored an undergraduate researcher during 10 weeks of field and laboratory work in the summer of 2021 before working with this student on an honors research project during the 2021 – 2022 academic year.
+
+- 2021	Internship Coordinator, MarineOmics Working Group, NSF RCN for Evolution in Changing Seas
+  - In 2021 I funded, constructed, and led an internship for three undergraduate researchers, three graduate student mentors, and three faculty advisors representing seven institutions that provided remote networking opportunities and professional development panel discussions and taught interns foundational computational methods in genomics.
+
+- 2021	Mentor, Western Society of Naturalists Mentorship Program
+  - I have volunteered as a mentor for a first-time attendee of the Western Society of Naturalists’ virtual annual meeting, helping this student prepare for their first poster presentation and connecting them with researchers that this student later interviewed with for post- baccalaureate positions.
+
+- 2020 – 2021	President (elected), Graduate Student Advisory Committee, UCSB Dept. of Ecology, Evolution, and Marine Biology
+  - I served as the chair and leader of my department’s graduate student governance group where we oversaw relations between students and the department, organized professional development programs, and served as an interface between UCSB’s graduate division and our graduate student body.
+
+- 2019 – 2020	Department Representative, UCSB Graduate Student Association
+  - I have served as a representative to the university-wide graduate student association on behalf of students within my department.
+
+- 2019 – 2020	Graduate Mentor, UCSB Gorman Scholars Program
+  - I mentored an undergraduate researcher to aid in their professional development and independent research through a competitive scholarship that aims to broaden participation in STEM.
+
+- 2019 – 2020	Treasurer, Graduate Student Advisory Committee, UCSB Dept. of Ecology, Evolution, and Marine Biology
+  - I oversaw financial transactions for functions organized by graduate students related to scientific training, symposia organization, and social events.
+
+- 2019 – 2020	Volunteer, World Oceans Day, Sea Center, Santa Barbara
+  - I have volunteered as a scientific educator for a World Oceans Day event hosted by the Santa Barbara Natural History Museum’s Sea Center where I engaged the public on issues facing the world’s oceans and shared my experience as a scientist.
+
+- 2018 – 2022	Volunteer, Family Ultimate Science Experience, UCSB
+  - I led monthly experiential learning activities for students and their families at public middle schools in Santa Bara County that cover topics in biology, chemistry, engineering, and physics.
+
+- 2019	Student Representative, Faculty Hiring Committee, UCSB
+  - I served as the student representative in the Dept. of Ecology, Evolution, and Marine Biology for a hiring committee aiming to recruit a tenure-track faculty member specializing in genomics.
+
+- 2017	Collaborator, Seeker: Group Nine Media
+  - I reached out to and collaborated with Seeker, a science education network, to develop an episode for the series “Science at the Extremes” focusing on my research group’s fieldwork at McMurdo Station, Antarctica, resulting in over 780,000 online views.
+
+- 2015 – 2016	Student Representative (elected), Dickinson College Dept. of Biology
+Planned and organized events for the Dickinson College Dept. of Biology, including symposia, seminars, and dinners. I also played an active role in recruitment and tenure selection for biology faculty.
+
+---
+
+## Student & Postbaccalaureate Mentees  
+
+- 2024 – present	Tina Cai, Graduate Student Researcher (PhD), UC Santa Cruz
+- 2024 – present	Owen Moosman, Undergraduate Researcher, UC Santa Cruz
+- 2024 – present	Emma Tashi, Undergraduate Researcher, UC Santa Cruz
+- 2023 – 2024	Nathan Surendran, Undergraduate Researcher and Junior Research Specialist, UC Santa Cruz
+- 2022	Kelly Castellon, California Alliance for Minority Participation Summer Research Fellow, UC Santa Barbara
+- 2021 – 2022	Olivia Porat, Worster Fellow, UC Santa Barbara
+  - Graduated with distinction and honors
+  - Scientific educator with the San Francisco Bay Marine Science Institute
+- 2020 – 2022	Kaitlin Macaranas, RCN-ECS MarineOmics Intern, CSU Bakersfield
+  - NSF Graduate Research Fellow
+  - MSc student at Western Washington University
+- 2019 – 2020	Michael Meneses, Gorman Research Scholar, UC Santa Barbara
+  - Graduated with honors
+PhD student at Woods Hole Oceanographic Institution
+- 2017 – 2018         Madison Ingraham, Undergraduate Researcher, Sonoma State University
+  - MSc student at Sonoma State University.
+
+---
+
+## Professional Memberships  
+
+- Society for Integrative and Comparative Biology (SICB)  
+- Society for Molecular Biology and Evolution (SMBE)  
+- Western Society of Naturalists (WSN)  
+- Research Coordination Network for Evolution in Changing Seas (RCN-ECS)  
+- Association for the Sciences of Limnology and Oceanography (ASLO)  
+
+---
+
+## References  
+
+**Dr. Gretchen E. Hofmann**  
+Professor of Ecology, Evolution, and Marine Biology  
+UC Santa Barbara  
+Tel: 805-893-6175  
+Email: hofmann@ucsb.edu  
+
+**Dr. Joanna L. Kelley**  
+Associate Professor of Ecology and Evolutionary Biology  
+UC Santa Cruz  
+Tel: 831-459-5358  
+Email: jokelley@ucsc.edu 
+
+**Dr. Soojin V. Yi**  
+Professor of Ecology, Evolution, and Marine Biology  
+UC Santa Barbara  
+Email: soojinyi@ucsb.edu  
+
+**Dr. Katie E. Lotterhos**  
+Associate Professor of Marine and Environmental Sciences  
+Northeastern University  
+Tel: 617-373-2059  
+Email: k.lotterhos@northeastern.edu  
