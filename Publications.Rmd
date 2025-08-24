@@ -14,9 +14,11 @@ knitr::include_graphics("images/bodega_banner.jpg")
 
 **Bogan SN**, Strader ME, and Hofmann GE. [Transgenerational effects alter the fitness consequences and genetic architecture of phenotypic plasticity and its regulatory pathways](https://www.biorxiv.org/content/10.1101/2024.10.07.617098v1). *bioRxiv*. (in revision)
 
-**Bogan SN**, Sasaki M, and Kelley JL. Predicting Selection on Phenotypic Plasticity and Inferring Plasticity-first Evolution: Advances in Evolutionary Ecology and Genomics. (invited for special issue at  *Functional Ecology*; in revision)
+**Bogan SN**, Sasaki M, and Kelley JL. Improving evolutionary and genomic tests of selection on phenotypic plasticity and plasticity-first evolution. (in revision)
 
-Moosman OW\*, Kelley JK, **Bogan SN**. Mitigating Misassembly and Switch Errors in Pangenomes of Polar Fishes Reveals Haplotype Diversity in Copy Number of Antifreeze Protein Genes. (invited for special issue at *Heredity*; in review)
+Moosman OW\*, Kelley JK, **Bogan SN**. Mitigating Misassembly and Switch Errors in Phased Genomes of Polar Fishes Reveals Haplotype Diversity in Copy Number of Antifreeze Protein Genes. (invited for special issue at *Heredity*; in revision)
+
+Cai T, **Bogan SN**, Tanner RL, Kelley JL, Dowd WW. Tissue-specific plasticity of DNA methylation across intertidal microhabitats in juvenile mussels (*Mytilus californianus*). (in submission)
 
 <br>
 
