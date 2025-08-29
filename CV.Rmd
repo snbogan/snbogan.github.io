@@ -9,35 +9,35 @@ Email: snbogan[at]ucsc.edu
 
 ## Education & Training  
 
-**2023 – present**  
+2023 – present 
 University of California, Santa Cruz (UCSC), Santa Cruz, CA  
-*Postdoctoral Researcher*  
+Postdoctoral Researcher* 
 Department of Ecology and Evolutionary Biology  
 Primary investigator: Dr. Joanna Kelley  
 
-**2018 – 2023**  
+2018 – 2023  
 University of California, Santa Barbara (UCSB), Santa Barbara, CA  
-*PhD Candidate*  
+PhD Student 
 Department of Ecology, Evolution, and Marine Biology  
 Thesis: *Physiological and Genomic Evolution of Environmental Acclimation across Populations of Strongylocentrotus purpuratus and Tigriopus californicus*  
 Advisor: Dr. Gretchen Hofmann  
 
-**2016 – 2018**  
+2016 – 2018 
 Sonoma State University (SSU), Rohnert Park, CA  
-*Master of Science*  
+Master of Science* 
 Department of Biology  
 Advisor: Dr. Sean Place  
 
-**2012 – 2016**  
+2012 – 2016 
 Dickinson College, Carlisle, PA  
-*Bachelor of Science, cum laude*  
+Bachelor of Science, *cum laude*  
 Thesis Advisor: Dr. Anthony Pires, Department of Biology  
 
 ---
 
 ## Publications  
-
-- Bogan SN, Porat OI*, Meneses MJ*, and Hofmann GE. 2024. Thermal Plasticity Has Greater Fitness Costs among Thermally Tolerant Genotypes of *Tigriopus californicus*. *Functional Ecology* 38(7):1562–1577.  
+- Bogan SN, Surendran N\*, Hotaling S, Desvignes T, Bista I, Lins LSF, Eilertsen MH, Le François NR, Algayer T, Hamilton SL, Hoffmann FG, and Kelley JL. 2024. Temperature and Pressure Shaped the Evolution of Antifreeze Proteins in Polar and Deep Sea Zoarcoid Fishes. *Molecular Biology and Evolution*. (accepted; in press) 
+- Bogan SN, Porat OI\*, Meneses MJ\*, and Hofmann GE. 2024. Thermal Plasticity Has Greater Fitness Costs among Thermally Tolerant Genotypes of *Tigriopus californicus*. *Functional Ecology* 38(7):1562–1577.  
 - Bogan SN and Yi SV. 2024. Potential Role of DNA Methylation in Plastic Responses to the Environment across Cells, Organisms, and Populations. *Genome Biology and Evolution* 16(2): evae022.  
 - Bogan SN, Johns JW, Griffiths JS, Davenport DL, Schaal SM, Wuitchik SJS, Lotterhos KE, Lou RN, McGirr JA, Downey-Wall AM, Rivera HE, Roberts SB, Puritz JB, and Silliman KE. 2023. A dynamic web resource for robust and reproducible genomics in nonmodel species: marineomics.io. *Methods in Ecology and Evolution* 14(11): 2709–2716.  
 - Bogan SN, Strader ME, and Hofmann GE. 2023. Associations between DNA Methylation and Gene Expression Depend on Chromatin Accessibility during Transgenerational Plasticity. *BMC Biology* 21:149.  
@@ -49,10 +49,9 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 ### Preprints and Works in Review or Revision  
 
-- Bogan SN, Surendran N*, Hotaling S, Desvignes T, Bista I, Lins LSF, Eilertsen MH, Le François NR, Algayer T, Hamilton SL, Hoffmann FG, and Kelley JL. 2024. Temperature and Pressure Shaped the Evolution of Antifreeze Proteins in Polar and Deep Sea Zoarcoid Fishes. *bioRxiv.* (minor revision at *Molecular Biology and Evolution*)  
 - Bogan SN, Sasaki M, and Kelley JL. Improving evolutionary and genomic tests of selection on phenotypic plasticity and plasticity-first evolution. (in revision)  
 - Bogan SN, Strader ME, and Hofmann GE. 2024. Parental stress alters the fitness effects and genetic correlation of offspring performance traits and their gene expression pathways. *bioRxiv.* (in revision at *Evolution*)  
-- Moosman OW*, Kelley JK, and Bogan SN. Mitigating Assembly and Switch Errors in Pangenomes of Polar Fishes Reveals Haplotype Diversity in Copy Number of Antifreeze Protein Genes. (in revision; invited for special issue and in review at *Heredity*)  
+- Moosman OW\*, Kelley JK, and Bogan SN. Mitigating Assembly and Switch Errors in Pangenomes of Polar Fishes Reveals Haplotype Diversity in Copy Number of Antifreeze Protein Genes. (in revision; invited for special issue at *Heredity*)  
 
 ---
 
@@ -96,29 +95,29 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 ## Invited Talks & Panels  
 
-- 2024 — *Ecological and Genomic Constraints on Environmental Acclimation and Adaptation by Marine Fauna.* Cal Poly San Luis Obispo, Dept. of Biology (invited seminar).  
-- 2023 — *Thermal Plasticity has Greater Fitness Costs among Tolerant Genotypes.* Mary Rice Award Best Student Presentation Session, Society for Integrative and Comparative Biology Annual Meeting, Austin, TX (invited talk).  
-- 2022 — *One Tool in a Toolkit: Integrative, Genewise Tests of Associations Between the Environment, DNA Methylation, and Gene Expression.* Congress of Marine Epigenetics, MBL, Woods Hole, MA (featured speaker).  
-- 2022 — Panel: *Synthesis across Genomic Data Sources.* Research Coordination Network for Evolution in Changing Seas Training and Integration Workshop, Shoals Marine Lab, NH (invited panelist).  
-- 2021 — *In situ Environments Induce Maternal Effects on Larval Performance in the Purple Sea Urchin.* Santa Barbara Channel LTER Seminar (invited talk).  
-- 2018 — *New Turns and ‘U-Turns’ in Cis- Trans-regulation of Molecular Chaperones Among Antarctic Fishes.* UC Davis Graduate Group in Population Biology, Davis, CA (invited seminar).  
-- 2017 — *Thermal Adaptation in Antarctic Fishes in a Warming Ocean.* Presentation to the United States National Science Board, McMurdo Station, Antarctica (invited talk).  
+- 2024 — Ecological and Genomic Constraints on Environmental Acclimation and Adaptation by Marine Fauna. Cal Poly San Luis Obispo, Dept. of Biology (invited seminar).  
+- 2023 — Thermal Plasticity has Greater Fitness Costs among Tolerant Genotypes. Mary Rice Award Best Student Presentation Session, Society for Integrative and Comparative Biology Annual Meeting, Austin, TX (invited talk).  
+- 2022 — One Tool in a Toolkit: Integrative, Genewise Tests of Associations Between the Environment, DNA Methylation, and Gene Expression. Congress of Marine Epigenetics, MBL, Woods Hole, MA (featured speaker).  
+- 2022 — Panel: Synthesis across Genomic Data Sources. Research Coordination Network for Evolution in Changing Seas Training and Integration Workshop, Shoals Marine Lab, NH (invited panelist).  
+- 2021 — In situ Environments Induce Maternal Effects on Larval Performance in the Purple Sea Urchin. Santa Barbara Channel LTER Seminar (invited talk).  
+- 2018 — New Turns and ‘U-Turns’ in Cis- Trans-regulation of Molecular Chaperones Among Antarctic Fishes. UC Davis Graduate Group in Population Biology, Davis, CA (invited seminar).  
+- 2017 — Thermal Adaptation in Antarctic Fishes in a Warming Ocean. Presentation to the United States National Science Board, McMurdo Station, Antarctica (invited talk).  
 
 ---
 
 ## Selected Conference Presentations  
 
-- 2025 — *Determining Causes and Consequences of Gene Copy Number Evolution at Genomic and Transcriptomic Levels using Long-read Sequencing.* Plant and Animal Genomes, San Diego, CA (talk).  
-- 2024 — *Convergent Structural Variation of Antifreeze Proteins in Polar and Deep Sea Fishes.* Society for Molecular Biology and Evolution, Puerto Vallarta, Mexico (talk).  
-- 2023 — *Thermal plasticity has higher fitness costs in more thermally tolerant families of Tigriopus californicus.* Western Society of Naturalists, Monterey, CA (talk).  
-- 2023 — *Phenome-wide heritability of adaptive plasticity.* Society for Molecular Biology and Evolution, Ferrara, Italy (poster).  
-- 2021 — *Gene Regulatory Roles of DNA Methylation During Transgenerational Plasticity in the Sea Urchin Strongylocentrotus purpuratus.* Society for Integrative and Comparative Biology Annual Meeting, virtual (talk).  
-- 2020 — *Sex-dependent Effects of Local Adaptation on the Thermal Physiology of Tigriopus californicus Across a Latitudinal Cline.* Western Society of Naturalists, virtual (talk).  
-- 2020 — *Changes in Genome-wide Methylation in Response to Ocean Acidification in the Pteropod Limacina helicina antarctica...* AGU Ocean Sciences Meeting, San Diego, CA (poster).  
-- 2019 — *Eco-evolutionary and Molecular Underpinnings of Plasticity in Thermal Tolerance Among Natural Populations of Tigriopus californicus.* Western Society of Naturalists, Ensenada, Mexico (poster).  
-- 2018 — *Regulation of a Lost Inducible Heat Shock Response in Antarctic Fishes.* POLAR2018, Davos, Switzerland (poster).  
-- 2018 — *Latent and Interactive Effects of Ocean Acidification and Nutrition Across the Larva to Juvenile Transition in an Intertidal Gastropod.* Society for Integrative and Comparative Biology Annual Meeting, San Francisco, CA (talk).  
-- 2016 — *Influence of Reduced pH on Growth and Development of the Marine Gastropod Crepidula fornicata.* Society for Integrative and Comparative Biology Annual Meeting, Portland, OR (poster).  
+- 2025 — Determining Causes and Consequences of Gene Copy Number Evolution at Genomic and Transcriptomic Levels using Long-read Sequencing. Plant and Animal Genomes, San Diego, CA (talk).  
+- 2024 — Convergent Structural Variation of Antifreeze Proteins in Polar and Deep Sea Fishes. Society for Molecular Biology and Evolution, Puerto Vallarta, Mexico (talk).  
+- 2023 — Thermal plasticity has higher fitness costs in more thermally tolerant families of Tigriopus californicus. Western Society of Naturalists, Monterey, CA (talk).  
+- 2023 — Phenome-wide heritability of adaptive plasticity. Society for Molecular Biology and Evolution, Ferrara, Italy (poster).  
+- 2021 — Gene Regulatory Roles of DNA Methylation During Transgenerational Plasticity in the Sea Urchin Strongylocentrotus purpuratus. Society for Integrative and Comparative Biology Annual Meeting, virtual (talk).  
+- 2020 — Sex-dependent Effects of Local Adaptation on the Thermal Physiology of Tigriopus californicus Across a Latitudinal Cline. Western Society of Naturalists, virtual (talk).  
+- 2020 — Changes in Genome-wide Methylation in Response to Ocean Acidification in the Pteropod Limacina helicina antarctica... AGU Ocean Sciences Meeting, San Diego, CA (poster).  
+- 2019 — Eco-evolutionary and Molecular Underpinnings of Plasticity in Thermal Tolerance Among Natural Populations of Tigriopus californicus. Western Society of Naturalists, Ensenada, Mexico (poster).  
+- 2018 — Regulation of a Lost Inducible Heat Shock Response in Antarctic Fishes. POLAR2018, Davos, Switzerland (poster).  
+- 2018 — Latent and Interactive Effects of Ocean Acidification and Nutrition Across the Larva to Juvenile Transition in an Intertidal Gastropod. Society for Integrative and Comparative Biology Annual Meeting, San Francisco, CA (talk).  
+- 2016 — Influence of Reduced pH on Growth and Development of the Marine Gastropod Crepidula fornicata. Society for Integrative and Comparative Biology Annual Meeting, Portland, OR (poster).  
 
 ---
 
@@ -267,24 +266,24 @@ PhD student at Woods Hole Oceanographic Institution
 
 ## References  
 
-**Dr. Gretchen E. Hofmann**  
+Dr. Gretchen E. Hofmann  
 Professor of Ecology, Evolution, and Marine Biology  
 UC Santa Barbara  
 Tel: 805-893-6175  
 Email: hofmann@ucsb.edu  
 
-**Dr. Joanna L. Kelley**  
+Dr. Joanna L. Kelley  
 Associate Professor of Ecology and Evolutionary Biology  
 UC Santa Cruz  
 Tel: 831-459-5358  
 Email: jokelley@ucsc.edu 
 
-**Dr. Soojin V. Yi**  
+Dr. Soojin V. Yi  
 Professor of Ecology, Evolution, and Marine Biology  
 UC Santa Barbara  
 Email: soojinyi@ucsb.edu  
 
-**Dr. Katie E. Lotterhos**  
+Dr. Katie E. Lotterhos  
 Associate Professor of Marine and Environmental Sciences  
 Northeastern University  
 Tel: 617-373-2059  
