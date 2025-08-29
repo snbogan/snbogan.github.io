@@ -11,7 +11,7 @@ Email: snbogan[at]ucsc.edu
 
 2023 – present 
 University of California, Santa Cruz (UCSC), Santa Cruz, CA  
-Postdoctoral Researcher* 
+Postdoctoral Researcher 
 Department of Ecology and Evolutionary Biology  
 Primary investigator: Dr. Joanna Kelley  
 
@@ -24,7 +24,7 @@ Advisor: Dr. Gretchen Hofmann
 
 2016 – 2018 
 Sonoma State University (SSU), Rohnert Park, CA  
-Master of Science* 
+Master of Science 
 Department of Biology  
 Advisor: Dr. Sean Place  
 
@@ -57,9 +57,9 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 ### Non-peer Reviewed Literature  
 
-- Bogan SN. [*Fitting Multifactorial Models of Differential Expression*](https://marineomics.github.io/DGE_comparison_v2.html), 2022.  
+- Bogan SN. [Fitting Multifactorial Models of Differential Expression](https://marineomics.github.io/DGE_comparison_v2.html), 2022.  
 
-* \* = undergraduate mentee  
+\* = undergraduate mentee  
 
 ---
 
