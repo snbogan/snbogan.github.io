@@ -51,7 +51,7 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 - Bogan SN, Sasaki M, and Kelley JL. Improving evolutionary and genomic tests of selection on phenotypic plasticity and plasticity-first evolution. (in revision)  
 - Bogan SN, Strader ME, and Hofmann GE. 2024. Parental stress alters the fitness effects and genetic correlation of offspring performance traits and their gene expression pathways. *bioRxiv.* (in revision at *Evolution*)  
-- Moosman OW\*, Kelley JK, and Bogan SN. Mitigating Assembly and Switch Errors in Pangenomes of Polar Fishes Reveals Haplotype Diversity in Copy Number of Antifreeze Protein Genes. (in revision; invited for special issue at *Heredity*)  
+- Moosman OW\*, Kelley JL, and Bogan SN. Mitigating Assembly and Switch Errors in Pangenomes of Polar Fishes Reveals Haplotype Diversity in Copy Number of Antifreeze Protein Genes. (in revision; invited for special issue at *Heredity*)  
 
 ---
 
