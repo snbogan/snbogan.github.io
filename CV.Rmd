@@ -19,7 +19,7 @@ Primary investigator: Dr. Joanna Kelley
 University of California, Santa Barbara (UCSB), Santa Barbara, CA  
 PhD Student 
 Department of Ecology, Evolution, and Marine Biology  
-Thesis: *Physiological and Genomic Evolution of Environmental Acclimation across Populations of Strongylocentrotus purpuratus and Tigriopus californicus*  
+Thesis: *The Evolution of Plastic Responses to Global Change: Studies in Two Species of Coastal Marine Invertebrates*  
 Advisor: Dr. Gretchen Hofmann  
 
 2016 – 2018 
@@ -68,7 +68,7 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 - Bogan SN, Sasaki M, and Kelley JL. Improving evolutionary and genomic tests of selection on phenotypic plasticity and plasticity-first evolution. (in revision)  
 - Bogan SN, Strader ME, and Hofmann GE. 2024. Parental stress alters the fitness effects and genetic correlation of offspring performance traits and their gene expression pathways. *bioRxiv.* (in revision at *Evolution*) 
-- Cai T, Bogan SN, Tanner RL, Kelley JL, Dowd WW. Tissue-specific plasticity of DNA methylation across intertidal microhabitats in juvenile mussels (*Mytilus californianus*). (in submission)
+- Cai T, Bogan SN, Tanner RL, Kelley JL, and Dowd WW. Tissue-specific plasticity of DNA methylation across intertidal microhabitats in juvenile mussels (*Mytilus californianus*). (in submission)
 
 ---
 
