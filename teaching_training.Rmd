@@ -2,6 +2,10 @@
 title: "Teaching & training"
 ---
 
+```{r, echo = FALSE}
+knitr::include_graphics("images/3seas_banner.jpg")
+```
+
 ### Conservation genomics
 I co-teach a field course with [Dr. Kai Kopecky](https://www.kailkopecky.com/), *Conservation & Restoration of Marine Systems*, where I introduce graduate and undergrad students from Northeastern University to field, lab, and computational approaches in conservation genomics. Over two weeks at Friday Harbor Labs, WA, students... 
 
@@ -28,9 +32,11 @@ cat('<a href="" target="_blank"><img src="images/3seas3.jpg" style="width:48%;" 
 
 ```{r, echo = FALSE, out.extra='style="padding:10px"', results='asis'}
 
-cat('<a href="" target="_blank"><img src="images/3seas2.jpg" style="width:48%; margin-right:1%;" /></a>')
+cat('<a href="" target="_blank"><img src="images/3seas2.jpg" style="width:31.66%; margin-right:1%;" /></a>')
 
-cat('<a href="" target="_blank"><img src="images/3seas4.jpg" style="width:48%;" /></a>')
+cat('<a href="" target="_blank"><img src="images/3seas4.jpg" style="width:31.66%; margin-right:1%;" /></a>')
+
+cat('<a href="" target="_blank"><img src="images/3seas5.jpg" style="width:31.66%;" /></a>')
 
 ```
 
