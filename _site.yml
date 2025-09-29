@@ -17,10 +17,10 @@ navbar:
           href: Study_syst.html
     - text: "Publications"
       href: Publications.html
-    - text: "MarineOmics.io"
-      href: MarineOmics.html
-    - text: "Equity & service"
-      href: EquityService.html
+    - text: "Teaching & training"
+      href: teaching_training.html
+    - text: "Outreach & service"
+      href: outreach_service.html
     - text: "News & updates"
       href: News.html
     - text: "CV"
