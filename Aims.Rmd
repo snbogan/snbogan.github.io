@@ -26,7 +26,7 @@ My research is motivated by the goal of improving predictions of biodiversity's 
 
 Environmental adaptation can be constrained or facilitated by the structure and diversity of genomes. For example, chromosomal inversions can yield phenotypic effects of great fitness cost or benefit in a given environment. Repetitive genomic regions can facilitate copy number variation and subsequent selection on copy number in environments where more or fewer copies are beneficial. My research in evolutionary genomics seeks to understand how environmental adaptation is constrained or limited by these processes.  
 
-<u>Example:</u> **Bogan SN**, Surendran N, Hotaling S, *et al.* and Kelley JL. 2024. [Temperature and Pressure Shaped the Evolution of Antifreeze Proteins in Polar and Deep Sea Zoarcoid Fishes](https://www.biorxiv.org/content/10.1101/2024.08.24.609455v1). *bioRxiv* (in revision)
+<u>Example:</u> **Bogan SN**, Surendran N, Hotaling S, *et al.* and Kelley JL. 2024. [Temperature and Pressure Shaped the Evolution of Antifreeze Proteins in Polar and Deep Sea Zoarcoid Fishes](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaf219/8251091?searchresult=1). *Molecular Biology and Evolution* 42(10): msaf219.
 
 <br>
 
