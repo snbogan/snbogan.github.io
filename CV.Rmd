@@ -1,6 +1,9 @@
 ---
 title: "Curriculum Vitae"
+subtitle: "Last updated Dec 12th, 2025"
 ---
+<br>
+
 ## Samuel N. Bogan, PhD  
 UC Santa Cruz Coastal Biology Building, 130 McAllister Way, Santa Cruz, CA 95060  
 Email: snbogan[at]ucsc.edu  
@@ -68,7 +71,7 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 - Bogan SN, Sasaki M, and Kelley JL. Improving evolutionary and genomic tests of selection on phenotypic plasticity and plasticity-first evolution. (in revision)  
 - Bogan SN, Strader ME, and Hofmann GE. 2024. Parental stress alters the fitness effects and genetic correlation of offspring performance traits and their gene expression pathways. *bioRxiv.* (in revision at *Evolution*) 
-- Cai T, Bogan SN, Tanner RL, Kelley JL, and Dowd WW. Tissue-specific plasticity of DNA methylation across intertidal microhabitats in juvenile mussels (*Mytilus californianus*). (in submission)
+- Cai T, Bogan SN, Tanner RL, Kelley JL, and Dowd WW. Tissue-specific plasticity of DNA methylation across intertidal microhabitats in juvenile mussels (*Mytilus californianus*). *bioRxiv*. (in review)
 
 ---
 
@@ -130,7 +133,7 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 - 2023 — Phenome-wide heritability of adaptive plasticity. Society for Molecular Biology and Evolution, Ferrara, Italy (poster).  
 - 2021 — Gene Regulatory Roles of DNA Methylation During Transgenerational Plasticity in the Sea Urchin Strongylocentrotus purpuratus. Society for Integrative and Comparative Biology Annual Meeting, virtual (talk).  
 - 2020 — Sex-dependent Effects of Local Adaptation on the Thermal Physiology of Tigriopus californicus Across a Latitudinal Cline. Western Society of Naturalists, virtual (talk).  
-- 2020 — Changes in Genome-wide Methylation in Response to Ocean Acidification in the Pteropod Limacina helicina antarctica... AGU Ocean Sciences Meeting, San Diego, CA (poster).  
+- 2020 — Changes in Genome-wide Methylation in Response to Ocean Acidification in the Pteropod Limacina helicina antarctica. AGU Ocean Sciences Meeting, San Diego, CA (poster).  
 - 2019 — Eco-evolutionary and Molecular Underpinnings of Plasticity in Thermal Tolerance Among Natural Populations of Tigriopus californicus. Western Society of Naturalists, Ensenada, Mexico (poster).  
 - 2018 — Regulation of a Lost Inducible Heat Shock Response in Antarctic Fishes. POLAR2018, Davos, Switzerland (poster).  
 - 2018 — Latent and Interactive Effects of Ocean Acidification and Nutrition Across the Larva to Juvenile Transition in an Intertidal Gastropod. Society for Integrative and Comparative Biology Annual Meeting, San Francisco, CA (talk).  
