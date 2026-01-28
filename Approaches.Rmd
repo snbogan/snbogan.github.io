@@ -28,6 +28,7 @@ To improve multiomic studies of DNA methylation and gene expression, I am curren
 
 ### Genome assembly
 I am leading and aiding in the assembly of chromosome-scale, haplotype-phased reference genomes for a diversity of threatened and elusive marine animals including deep sea fishes and marine mammals. This work combines long-read and HiC reads, as well as the development of new software to evaluate accurate phasing and assembly. 
+
 <br>
 
 ## Ecological physiology
