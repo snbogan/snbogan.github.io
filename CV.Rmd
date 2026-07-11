@@ -1,18 +1,30 @@
 ---
 title: "Curriculum Vitae"
-subtitle: "Last updated Dec 12th, 2025"
+subtitle: "Last updated July 11th, 2026"
 ---
 <br>
 
-## Samuel N. Bogan, PhD  
-UC Santa Cruz Coastal Biology Building, 130 McAllister Way, Santa Cruz, CA 95060  
-Email: snbogan[at]ucsc.edu  
+## Samuel N. Bogan, PhD 
+Assistant Professor
+
+Skidmore College
+
+Department of Biology
+
+815 North Broadway, Saratoga Springs, NY 12866
+
+Email: sbogan[at]skidmore.edu  
 
 ---
 
+## Professional Appointments  
+
+- 2026 — present — Assistant Professor, Skidmore College, Department of Biology, Saratoga Springs, NY
+- 2023 – 2026 — Postdoctoral Researcher, University of California, Santa Cruz, Dept. of Ecology and Evolutionary Biology, Santa Cruz, CA
+
 ## Education & Training  
 
-2023 – present 
+2023 – 2026 
 University of California, Santa Cruz (UCSC), Santa Cruz, CA  
 Postdoctoral Researcher 
 Department of Ecology and Evolutionary Biology  
@@ -38,8 +50,10 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 ---
 
-## Publications  
-9\. Moosman OW\*, Kelley JL, and Bogan SN. 2025. Mitigating Assembly and Switch Errors in Phased Genomes of Polar Fishes Reveals Haplotype Diversity in Copy Number of Antifreeze Protein Genes. *Heredity*. (accepted; in press)
+## Publications 
+10\. Cai T^†^, Bogan SN, Tanner RL, Kelley JL, and Dowd WW. 2026. Tissue-specific plasticity of DNA methylation across intertidal microhabitats in juvenile mussels (*Mytilus californianus*). *Molecular Ecology* 35: e70418.
+
+9\. Moosman OW\*, Kelley JL, and Bogan SN. 2026. Mitigating Assembly and Switch Errors in Phased Genomes of Polar Fishes Reveals Haplotype Diversity in Copy Number of Antifreeze Protein Genes. *Heredity* 135: 174-186.
 
 
 8\. Bogan SN, Surendran N\*, Hotaling S, Desvignes T, Bista I, Lins LSF, Eilertsen MH, Le François NR, Algayer T, Hamilton SL, Hoffmann FG, and Kelley JL. 2025. Temperature and Pressure Shaped the Evolution of Antifreeze Proteins in Polar and Deep Sea Zoarcoid Fishes. *Molecular Biology and Evolution*: msaf219.
@@ -65,13 +79,19 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 1\. Bogan SN, McMahon JB, Pechenik JA, and Pires A. 2019. Legacy of Multiple Stressors: Ocean Acidification and Nutrition in Larvae and Juveniles of a Marine Gastropod. *Biological Bulletin* 236(3):159–173.  
 
+
+\* = undergraduate mentee; \† = graduate student mentee
+
 ---
 
 ### Preprints and Works in Review or Revision  
 
 - Bogan SN, Sasaki M, and Kelley JL. Improving evolutionary and genomic tests of selection on phenotypic plasticity and plasticity-first evolution. (in revision)  
 - Bogan SN, Strader ME, and Hofmann GE. 2024. Parental stress alters the fitness effects and genetic correlation of offspring performance traits and their gene expression pathways. *bioRxiv.* (in revision at *Evolution*) 
-- Cai T, Bogan SN, Tanner RL, Kelley JL, and Dowd WW. Tissue-specific plasticity of DNA methylation across intertidal microhabitats in juvenile mussels (*Mytilus californianus*). *bioRxiv*. (in review)
+- Tashi E\*, Bogan SN, Lugardo L, Webber J, Boston L, Grimwood J, Harkess A, and Kelley JL. A chromosome-scale genome of the elusive Hubbs' beaked whale reveals demography, inbreeding, and introgression in *Mesoplodon*. (in review) 
+
+
+\* = undergraduate mentee
 
 ---
 
@@ -99,10 +119,11 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 ---
 
-## Research & Travel Grants 
-($56,803 during graduate and postdoctoral career) 
+## Grants and Awards
+($1,434,730 total) 
 
-- 2020–2024 — Working Group Grant ($32,100; co-written with Dr. Katherine Silliman), NSF Research Coordinate Network for Evolution in Changing Seas  
+- 2026 — 2030 — Gordon and Betty Moore Foundation Grant ($1,377,927). "An open science ecosystem for enabling macrogenomic research in the sea". Co-PI. Lead PI: Katie Lotterhos, Northeastern University. (selected for support)
+- 2020 – 2024 — Working Group Grant ($32,100; co-written with Dr. Katherine Silliman), NSF Research Coordinate Network for Evolution in Changing Seas  
 - 2021 — Grant in Aid of Research ($769), Society for Integrative and Comparative Biology  
 - 2021 — Worster Summer Research Grant ($6,580), UCSB Dept. of Ecology, Evolution and Marine Biology  
 - 2020 — Faculty Research Grant ($10,654; co-written with Dr. Gretchen Hofmann), UCSB Academic Senate  
@@ -115,6 +136,7 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 ## Invited Talks & Panels  
 
+- 2026 — Depth and genome size shaped adaptation to freezing in polar fishes. University of California, Berkeley, Museum of Vertebrate Zoology (invited seminar).
 - 2024 — Ecological and Genomic Constraints on Environmental Acclimation and Adaptation by Marine Fauna. Cal Poly San Luis Obispo, Dept. of Biology (invited seminar).  
 - 2023 — Thermal Plasticity has Greater Fitness Costs among Tolerant Genotypes. Mary Rice Award Best Student Presentation Session, Society for Integrative and Comparative Biology Annual Meeting, Austin, TX (invited talk).  
 - 2022 — One Tool in a Toolkit: Integrative, Genewise Tests of Associations Between the Environment, DNA Methylation, and Gene Expression. Congress of Marine Epigenetics, MBL, Woods Hole, MA (featured speaker).  
@@ -127,6 +149,8 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 ## Selected Conference Presentations  
 
+- 2026 — An assembly graph permutation test to detect variation cased by haplotype misassembly. Bay Area Population Genomics, University of California Davis, CA (talk).
+- 2026 — A thermal gradient in genome size influenced adaptation to freezingin polar fishes. Society of Integrative and Comparative Biology Annual Meeting, Portland, OR (talk).
 - 2025 — Determining Causes and Consequences of Gene Copy Number Evolution at Genomic and Transcriptomic Levels using Long-read Sequencing. Plant and Animal Genomes, San Diego, CA (talk).  
 - 2024 — Convergent Structural Variation of Antifreeze Proteins in Polar and Deep Sea Fishes. Society for Molecular Biology and Evolution, Puerto Vallarta, Mexico (talk).  
 - 2023 — Thermal plasticity has higher fitness costs in more thermally tolerant families of Tigriopus californicus. Western Society of Naturalists, Monterey, CA (talk).  
@@ -143,7 +167,7 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 ## Research Appointments  
 
-- 2023 – present — Postdoctoral Researcher, University of California, Santa Cruz, Dept. of Ecology and Evolutionary Biology, Santa Cruz, CA  
+- 2023 – 2026 — Postdoctoral Researcher, University of California, Santa Cruz, Dept. of Ecology and Evolutionary Biology, Santa Cruz, CA  
 - 2018 – 2023 — Graduate Student Researcher, University of California, Santa Barbara, Dept. of Ecology, Evolution and Marine Biology, Santa Barbara, CA  
 - 2020 – 2021 — Graduate Student Researcher, Santa Barbara Coastal LTER  
 - 2017 — Graduate Student Researcher, NSF Office of Polar Programs, McMurdo Station, Antarctica  
@@ -154,7 +178,10 @@ Thesis Advisor: Dr. Anthony Pires, Department of Biology
 
 ## Teaching Appointments & Pedagogical Development  
 
-- 2025 – present — Instructor, Northeastern University, Three Seas Masters in Marine Biology at Friday Harbor Labs, WA  
+- 2025 — 2028 — Participant, Computational Biology Peer Mentorship Network (CompBioPMN)
+  - Participate in pedagogical and research-mentorship training for early career computational faculty at primarily under graduate institutions. CompBioPMN is led by Professor Anna Ritz, Reed College. 
+
+- 2025 — Instructor, Northeastern University, Three Seas Masters in Marine Biology at Friday Harbor Labs, WA  
   - Co-teach an annual field course focused on genomic and restoration approaches for marine conservation.  
   - Train students in fundamental genomic and wet lab tools for population genetics.  
 
@@ -255,9 +282,11 @@ Planned and organized events for the Dickinson College Dept. of Biology, includi
 
 ## Student & Postbaccalaureate Mentees  
 
-- 2024 – present	Tina Cai, Graduate Student Researcher (PhD), UC Santa Cruz
-- 2024 – present	Owen Moosman, Undergraduate Researcher, UC Santa Cruz
-- 2024 – present	Emma Tashi, Undergraduate Researcher, UC Santa Cruz
+- 2025 – 2026 Kashish Sharma, Undergraduate Student Researcher, UC Santa Cruz
+- 2025 Massimo Reyna, Undergraduate Student Researcher, UC Santa Cruz
+- 2024 – 2026	Tina Cai, Graduate Student Researcher (PhD), UC Santa Cruz
+- 2024 – 2025	Owen Moosman, Undergraduate Researcher, UC Santa Cruz
+- 2024 – 2026	Emma Tashi, Undergraduate Researcher, UC Santa Cruz
 - 2023 – 2024	Nathan Surendran, Undergraduate Researcher and Junior Research Specialist, UC Santa Cruz
 - 2022	Kelly Castellon, California Alliance for Minority Participation Summer Research Fellow, UC Santa Barbara
 - 2021 – 2022	Olivia Porat, Worster Fellow, UC Santa Barbara
@@ -279,8 +308,6 @@ PhD student at Woods Hole Oceanographic Institution
 - Society for Integrative and Comparative Biology (SICB)  
 - Society for Molecular Biology and Evolution (SMBE)  
 - Western Society of Naturalists (WSN)  
-- Research Coordination Network for Evolution in Changing Seas (RCN-ECS)  
-- Association for the Sciences of Limnology and Oceanography (ASLO)  
 
 ---
 
