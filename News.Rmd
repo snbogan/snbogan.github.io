@@ -5,6 +5,14 @@ title: "News & updates"
 **2026**
 </div>
 
+June 4th, 2026 - A new paper led by Tina Cai is out in *Molecular Ecology*! We performed reduced-representation bisulfite sequencing on gill and foot tissue of California mussels transplanted between intertidal microhabitats. Tissues showed significantly different epigenetic responses to *in situ* conditions.  [Available here](https://onlinelibrary.wiley.com/doi/10.1111/mec.70418).
+
+<br>
+
+March 27th, 2026 *Heredity*'s special issue "Structural variation in context: mechanisms, functions and selection regimes across the tree of life" is out! The issue includes Owen Moosman's paper on AFP CNV. It also features incredible papers on the maintenance of an SV under balancing selection, experimentally testing fitness effects of SVs, and parallel selection on SVs: https://www.nature.com/hdy/volumes/135/issues/3
+
+<br>
+
 Jan 23rd, 2026 - This summer, I'll be starting at Skidmore College as an Assistant Professor in the Department of Biology! I'm looking forward to developing research and teaching on the genomics of environmental adaptation and acclimation in my home state of New York.
 
 <br>
