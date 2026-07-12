@@ -36,7 +36,7 @@ knitr::include_graphics("images/Sam_Headshot2.jpg")
 
 I'm an evolutionary biologist integrating physiology and genomics to understand the drivers and limits of environmental adaptation and acclimation. 
 
-I recently completed my postdoctoral training at the University of California, Santa Cruz in the [Kelley Lab](https://evogenomes.sites.ucsc.edu/) where I studied the evolution of antifreeze proteins in polar fishes through the lens of structural genomic variation. I received my PhD from the University of California, Santa Barbara, in the [Hofmann Lab](https://www.hofmannlab.com/), where I studied the evolution and regulation of plastic responses to global change. I'm be joining Skidmore College in August 2026 as an Assistant Professor in the Department of Biology.
+I recently completed my postdoctoral training at the University of California, Santa Cruz in the [Kelley Lab](https://evogenomes.sites.ucsc.edu/) where I studied the evolution of antifreeze proteins in polar fishes through the lens of structural genomic variation. I received my PhD from the University of California, Santa Barbara, in the [Hofmann Lab](https://www.hofmannlab.com/), where I studied the evolution and regulation of plastic responses to global change. I'm joining Skidmore College in August 2026 as an Assistant Professor in the Department of Biology.
 
 <div style="clear: both;"></div>
 
@@ -51,4 +51,4 @@ June 4th, 2026 - A new paper led by Tina Cai is out in *Molecular Ecology*! We p
 
 ![](images/mail.png){width=25px} sbogan[at]skidmore.edu ![](images/bluesky.png){width=25px} [@snbogan](https://bsky.app/profile/snbogan.bsky.social) ![](images/github.png){width=25px} [@snbogan](https://github.com/snbogan) ![](images/google_scholar.png){width=25px} [Google Scholar](https://scholar.google.com/citations?user=4pu2BAUAAAAJ&hl=en)
 
-**Office:** Coastal Biology Building Room 158 
+**Office:** Billie Tisch Center for Integrated Sciences (BTCIS)
