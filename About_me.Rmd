@@ -8,11 +8,11 @@ knitr::include_graphics("images/Gumboot_Headshot.jpg")
 
 ### Research & background
 
-I'm an evolutionary biologist integrating physiology and genomics to understand the drivers and limits of environmental adaptation and acclimation. I study how the structure and variation of genomes and epigenomes constrains or facilitates adaptive evolution and phenotypic plasticity. This work spans molecular, organismal, and population levels. I primarily research marine animals such as polar ectotherms, coastal invertebrates, and deep sea fishes. While I also work to address fundamental biological questions, my training in marine ecology is central to how I approach questions in physiological and molecular evolution.      
+I'm an evolutionary biologist integrating physiology and genomics to understand the drivers and limits of environmental adaptation and acclimation. I study how the structure and variation of genomes and epigenomes constrains or facilitates adaptive evolution and phenotypic plasticity. This work spans molecular, organismal, and population levels. I primarily research marine animals such as polar ectotherms, coastal invertebrates, and deep sea fishes. While I work to address fundamental biological questions, my training in marine ecology is central to how I approach questions in physiological and molecular evolution.      
 
 <div style="clear: both;"></div>
 
-As a postdoctoral researcher at the University of California, Santa Cruz in the [Kelley Lab](https://evogenomes.sites.ucsc.edu/), I'm studying the evolution of antifreeze proteins in polar fishes through the lens of structural genomic variation. I completed my PhD at UC Santa Barbara where I studied the evolution and regulation of thermal acclimation. In my postdoc, I'm also continuing my research on phenotypic plasticity and acclimation's evolution by - and effect on - natural selection.
+As a postdoctoral researcher at the University of California, Santa Cruz in the [Kelley Lab](https://evogenomes.sites.ucsc.edu/), I studied the evolution of antifreeze proteins in polar fishes through the lens of structural genomic variation. I completed my PhD at UC Santa Barbara where I studied the evolution and regulation of thermal acclimation. Starting August, 2026, I'll continue my research and teaching at Skidmore College as an Assistant Professor in the Department of Biology.
 
 <br>
 
